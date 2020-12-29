@@ -4,7 +4,7 @@
 ![gameScreenShoot](./img/game.png)
 
 ### 게임시작
-[당근게임 하러가기!](http://google.com)
+[당근게임 하러가기!](https://kah9509.github.io/Carrot-Game/)
 
 ### 게임방법
 그저...벌레말고 당근 클릭해주세요.
