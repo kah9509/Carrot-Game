@@ -3,12 +3,15 @@
 
 ![gameScreenShoot](./img/game.png)
 
+### 게임시작
+[당근게임 하러가기!](http://google.com)
+
+### 게임방법
+그저...벌레말고 당근 클릭해주세요.
+
 ### 기술스택
 이 프로젝트에 사용된 기술
 * Language: Javascript
-
-### 프로젝트 확인
-[당근게임 하러가기!](http://google.com)
 
 ### 기능 & 목표
 - 게임 시작/재시작 시 시간 초기화 후 진행
