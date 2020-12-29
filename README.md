@@ -3,4 +3,6 @@
 
 ![gameScreenShoot](./img/game.png)
 
-##
+### 기술스택
+이 프로젝트에 사용된 기술
+* Language: Javascript
