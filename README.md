@@ -1,7 +1,6 @@
 # 당근게임
 벌레를 피해 당근 캐기 게임입니다 ^^
 
-![gameScreenShoot](./img/game.png)
 
 ### 게임시작
 [당근게임 하러가기!](https://kah9509.github.io/Carrot-Game/)
